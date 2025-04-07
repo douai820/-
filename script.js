@@ -18,7 +18,7 @@ const errorMessageElement = document.getElementById('error-message');
 
 // --- 精心构造 Prompt ---
 const recipientName = "温海腾";
-const relationshipInfo = "她是我高中家教姐姐，现在是清华/北大的研究生。我们关系很好，她像姐姐一样照顾和鼓励我，我也很敬佩她。她把我当弟弟看，明确说过界限，所以祝福需保持在这个定位上，绝对不能有任何男女朋友间的暧昧或暗示。";
+const relationshipInfo = "她是我高中家教姐姐，现在是清华/北大的研究生。虽然我们不在同一个学校上学，但是我们关系很好。她像姐姐一样照顾和鼓励我，我也很敬佩她。她把我当弟弟看，明确说过界限，所以祝福需保持在这个定位上，绝对不能有任何男女朋友间的暧昧或暗示。";
 const recipientTraits = "性格非常乐观开朗，热爱生活，喜欢到处旅游探索，也喜欢看剧放松，是个闲不住、充满活力的人。";
 const occasion = "她的生日";
 const desiredToneAndStyle = "语气要真诚、温暖、积极向上，带着弟弟对优秀姐姐的欣赏和祝福。可以适当结合她爱玩、爱探索的特点。语言可以轻松活泼一点，或者带点含蓄的诗意。";
